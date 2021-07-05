@@ -6,7 +6,7 @@ I want to specify that for this project, \
 I was a beginner in programming.\
 Moreover, I had never used JavaScript,\
 Despite this, I got 21/22 in the correction.
-
+ 
 ## Description :sunrise_over_mountains:
 
 The project idea is to build a Todo List. \
