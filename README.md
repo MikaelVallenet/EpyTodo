@@ -20,11 +20,21 @@ Within this project, you’ll have to develop:\
 
 Here is the architecture I set up for the project :
 
-![Architecture](./assets/archi.png) :
+<p align="center">
+    <br/>
+  <img src="./assets/archi.png" />
+  <br/>
+  <br/>
+</p>
 
 We also made a SQL script to create the database quickly : 
 
-![scriptSQL](./assets/sql.png) :
+<p align="center">
+    <br/>
+  <img src="./assets/sql.png" />
+  <br/>
+  <br/>
+</p>
 
 ## Installation :mag_right:
 
