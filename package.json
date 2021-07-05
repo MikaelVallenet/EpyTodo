@@ -1,0 +1,27 @@
+{
+  "name": "epytodo",
+  "version": "1.0.0",
+  "description": "Project back-end with Express. Handle authetification and tokens.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechIT2020/B-WEB-200-LYN-2-1-epytodo-mikael.vallenet.git"
+  },
+  "author": "Mikael David Ilhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EpitechIT2020/B-WEB-200-LYN-2-1-epytodo-mikael.vallenet/issues"
+  },
+  "homepage": "https://github.com/EpitechIT2020/B-WEB-200-LYN-2-1-epytodo-mikael.vallenet#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5"
+  }
+}
