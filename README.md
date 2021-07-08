@@ -55,7 +55,7 @@ or use the repository's postman collection which has all possible queries
 
 ## Results :trophy:
 
-|                          Dependency                        |      License       |
+|                          Label                        |      Mark       |
 |:----------------------------------------------------------:|:------------------:|
 |           Preliminaries | 2 / 2 |
 | Architecture Web Server    | 5 / 5        |
