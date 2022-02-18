@@ -82,4 +82,3 @@ feel free to use it if you need it.
 ## Maintainers :sunglasses:
 
  - [Mikaël Vallenet](https://github.com/Mikatech)
- - [David Gozlan](https://github.com/Davphla)
