@@ -6,6 +6,7 @@ I want to specify that for this project, \
 I was a beginner in programming.\
 Moreover, I had never used JavaScript,\
 Despite this, I got 21/22 in the correction.
+My missing point is that I forgot to set the foreign key in the SQL schema.
  
 ## Description :sunrise_over_mountains:
 
