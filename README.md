@@ -37,6 +37,14 @@ We also made a SQL script to create the database quickly :
   <br/>
 </p>
 
+## Requirements
+To run this project you will need to:
+
+- install [mysql](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
+- install [Node.js](https://nodejs.org/en/download/package-manager/)
+
+
+
 ## Installation :mag_right:
 
 ```
